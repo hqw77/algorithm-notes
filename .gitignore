@@ -1,0 +1,10 @@
+# IDE 配置
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 本地练习代码
+test.py
